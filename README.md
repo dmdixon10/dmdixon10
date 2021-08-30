@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dmdixon10
 - 👀 I’m interested in ... Pretty much everything I Love to get up and learn everyday thats what pretty much keeps me going and motivated.
-- 🌱 I’m currently learning ... Information Technology Programming and Development
-- 💞️ I’m looking to collaborate on ... Trying to learn this new art
+- 🌱 I’m currently learning ... Information Technology Programming and Developmen
+- - 💞️ I’m looking to collaborate on ... Trying to learn this new art im excited for so i can devlope my knowledge. 
 - 📫 How to reach me ... 216-551-6841
 
 <!---
