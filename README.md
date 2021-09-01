@@ -8,3 +8,6 @@
 dmdixon10/dmdixon10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![goat](https://user-images.githubusercontent.com/89787176/131685053-9c558603-6956-4857-bb5f-865f549755c1.PNG)
+![goat](https://user-images.githubusercontent.com/89787176/131685086-4b09c0cc-b617-41ac-b6a3-7fc5182f3a09.PNG)
+![goat](https://user-images.githubusercontent.com/89787176/131685101-a7cfe910-3bab-4adf-b0fd-e8674ccb3051.PNG)
